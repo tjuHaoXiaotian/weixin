@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="org.apache.servicemix.bundles:org.apache.servicemix.bundles.json-lib:2.4_1" type="repository">
+    <properties maven-id="org.apache.servicemix.bundles:org.apache.servicemix.bundles.json-lib:2.4_1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.apache.servicemix.bundles.json-lib-2.4_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ezmorph-1.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
